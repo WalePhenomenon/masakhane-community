@@ -9,3 +9,5 @@
 - [Van Biljon, Elan, Arnu Pretorius, and Julia Kreutzer. "On optimal transformer depth for low-resource language translation. (2020)](https://arxiv.org/pdf/2004.04418.pdf).
 - [Öktem, Alp, Mirko Plitt, and Grace Tang. "Tigrinya Neural Machine Translation with Transfer Learning for Humanitarian Response." (2020)](https://arxiv.org/pdf/2003.11523.pdf)
 - [Webster, Jason, et al., Neural Machine Translation for South Africa's Official Languages (2020)]()
+- [Adewale Akinfaderin. "HausaMT v1.0: Towards English–Hausa Neural Machine Translation." (2020)](https://arxiv.org/abs/2006.05014)
+- [Oyinlola Babafemi and Adewale Akinfaderin. "Predicting and Analyzing Law-Making in Kenya." (2020)](https://arxiv.org/abs/2006.05493)
